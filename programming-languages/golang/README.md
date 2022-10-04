@@ -403,7 +403,6 @@
 - https://github.com/teh-cmc/go-internals
 - A Guide to the Go Garbage Collector: https://tip.golang.org/doc/gc-guide
 - The Go Memory Model: https://tip.golang.org/ref/mem
-- A Guide to the Go Garbage Collector: https://go.dev/doc/gc-guide
 
 # Go Learning:
 
